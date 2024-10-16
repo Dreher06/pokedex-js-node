@@ -1,0 +1,20 @@
+{
+  "name": "pokedes.node",
+  "version": "1.0.0",
+  "main": "pokemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Angelo",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "description": ""
+}
